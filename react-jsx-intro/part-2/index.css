@@ -1,0 +1,15 @@
+.tweet{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+}
+
+.name{
+    font-style: italic;
+}
+
+.username{
+    font-weight: 200;
+    padding-right: 20 px;
+}
